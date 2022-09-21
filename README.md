@@ -1,6 +1,6 @@
 # PrimerRepoAnder
 tarea compu 
-
+##bioquimica termo electronica compu estanciaIII EDO 
 Ander Villalobos Gilling 
 
 primer tarea de compu de crear un repositorio   aiuda no se que estoy haciendo    
