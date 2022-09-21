@@ -2,7 +2,34 @@
 
 tarea compu 
 ## bioquimica termo electronica compu estanciaIII EDO 
-**luz maria** , **andres de luna** ,**domingo y rafa**, **ulises**, **domingo mtz**, **gabriel** 
+**luz maria**
+* martes 
+    - 8 a 10 
+* jueves 
+    - 8 a 10 
+**andres de luna** 
+* lunes 
+    - 2 a 4
+* miercoles 
+    - 2 a 4 
+* viernes 
+    - 2 a 4 
+    
+**domingo y rafa**
+* lunes 
+    - 12 a 2 
+* martes 
+    - 12 a 1:30
+* miercoles 
+    - 12 a 2 
+* jueves 
+    - 12 a 1:30 
+
+**ulises**
+**domingo mtz**
+**gabriel** 
+
+
 
 Ander Villalobos Gilling 
 
