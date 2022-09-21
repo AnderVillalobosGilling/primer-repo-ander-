@@ -26,7 +26,9 @@ tarea compu
     - 12 a 1:30 
 
 **ulises**
+
 **domingo mtz**
+
 **gabriel** 
 
 
