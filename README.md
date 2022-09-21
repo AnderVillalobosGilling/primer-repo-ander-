@@ -2,6 +2,8 @@
 
 tarea compu 
 ## bioquimica termo electronica compu estanciaIII EDO 
+**luz maria** , **andres de luna** ,**domingo y rafa**, **ulises**, **domingo mtz**, **gabriel** 
+
 Ander Villalobos Gilling 
 
 primer tarea de compu de crear un repositorio   aiuda no se que estoy haciendo    
