@@ -1,4 +1,4 @@
-# primer-repo-ander-
+# PrimerRepoAnder
 tarea compu 
 
 Ander Villalobos Gilling 
